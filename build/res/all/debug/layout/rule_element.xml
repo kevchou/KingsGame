@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+          android:layout_width="fill_parent"
+          android:layout_height="wrap_content"
+          android:orientation="horizontal" 
+          android:padding="@dimen/padding">
+        
+    <TextView
+            android:id="@+id/tvRuleRank"
+            android:layout_width="45dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center_vertical"
+            android:gravity="center"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:textColor="#FF0000"
+            android:background="@drawable/rectangle_white"
+            />
+
+    <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingLeft="@dimen/padding">
+
+        <TextView
+            android:id="@+id/tvRuleTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="#FFF"
+            />
+
+        <TextView
+                android:id="@+id/tvRuleDescription"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textSize="14sp"
+                android:textColor="#FFF"
+                 />
+
+    </LinearLayout>
+
+
+</LinearLayout><!-- From: D:\SkyDrive\AndroidApps\KingsGame\res\layout\rule_element.xml -->

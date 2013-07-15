@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             android:orientation="vertical"
+             android:padding="@dimen/padding" >
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            android:id="@+id/invisibleRank"/>
+
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent"
+            android:paddingBottom="10dp">
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Rule Title: "
+                android:textColor="#DDD"
+                />
+
+        <EditText
+            android:id="@+id/etEditRuleTitle"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:inputType="text|textCapWords"
+            android:textColor="#FFF"
+                />
+
+    </LinearLayout>
+
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Rule Description: "
+            android:textColor="#DDD"/>
+
+    <EditText
+        android:id="@+id/etEditRuleDescription"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textCapWords|text|textMultiLine"
+        android:textColor="#FFF" />
+
+</LinearLayout><!-- From: D:\SkyDrive\AndroidApps\KingsGame\res\layout\edit_rule.xml -->

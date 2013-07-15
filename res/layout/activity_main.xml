@@ -1,0 +1,84 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/dark_green"
+    android:gravity="center_horizontal"
+    android:padding="@dimen/padding"
+    tools:context=".MainActivity" >
+
+    <TextView
+            android:id="@+id/tvCardsLeft"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/ivCard"
+            android:layout_centerHorizontal="true"
+            android:textColor="@android:color/white"
+            android:text="@string/fiftytwo_cards_left"
+            />
+
+    <ImageView
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+            android:contentDescription="@string/redeal"
+            android:id="@+id/ivCard"
+            android:src="@drawable/back"
+            android:onClick="onClick" />
+    
+    <TextView
+        android:id="@+id/tvCardText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ivCard"
+        android:layout_centerHorizontal="true"
+        android:text="@string/start_text"
+        android:textColor="@android:color/white" />
+
+    <TextView
+            android:id="@+id/tvKingsLeft"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tvCardText"
+            android:layout_centerHorizontal="true"
+            android:textColor="@android:color/white" />
+    
+    <LinearLayout
+        android:id="@+id/llRulesLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:paddingTop="@dimen/padding"
+        android:paddingBottom="@dimen/padding2"
+        android:paddingLeft="@dimen/padding2"
+        android:paddingRight="@dimen/padding2"
+        android:background="@drawable/rectangle_brown"
+        android:gravity="center_horizontal"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/tvCardRule"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="30sp"
+            android:textColor="@android:color/white"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/tvCardDescription"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:paddingTop="@dimen/padding"
+            android:singleLine="false"
+            android:gravity="center_horizontal"
+            android:textColor="@android:color/white"
+            />
+    </LinearLayout>
+
+
+	
+</RelativeLayout>

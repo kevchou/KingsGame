@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="D:\SkyDrive\AndroidApps\KingsGame\res" >
+            <file
+                name="back"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\back.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="c2"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\c2.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="c3"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\c3.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="c4"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\c4.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="c5"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\c5.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="c6"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\c6.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="c7"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\c7.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="c8"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\c8.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="c9"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\c9.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ca"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\ca.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="cj"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\cj.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ck"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\ck.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="cq"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\cq.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ct"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\ct.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="d2"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\d2.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="d3"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\d3.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="d4"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\d4.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="d5"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\d5.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="d6"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\d6.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="d7"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\d7.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="d8"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\d8.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="d9"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\d9.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="da"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\da.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="dj"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\dj.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="dk"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\dk.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="dq"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\dq.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="dt"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\dt.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="empty"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\empty.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="h2"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\h2.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="h3"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\h3.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="h4"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\h4.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="h5"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\h5.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="h6"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\h6.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="h7"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\h7.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="h8"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\h8.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="h9"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\h9.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ha"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\ha.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="hj"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\hj.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="hk"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\hk.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="hq"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\hq.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ht"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\ht.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="joker"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\joker.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="joker2"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\joker2.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="rectangle"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\rectangle.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="rectangle_brown"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\rectangle_brown.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="rectangle_white"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\rectangle_white.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="s2"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\s2.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="s3"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\s3.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="s4"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\s4.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="s5"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\s5.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="s6"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\s6.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="s7"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\s7.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="s8"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\s8.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="s9"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\s9.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="sa"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\sa.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="sj"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\sj.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="sk"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\sk.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="sq"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\sq.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="st"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable\st.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\layout\activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_rules"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\layout\activity_rules.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="edit_rule"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\layout\edit_rule.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="rule_element"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\layout\rule_element.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\menu\main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="rules"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\menu\rules.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="card_flip"
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\raw\card_flip.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\values\colors.xml"
+                qualifiers="" >
+                <color name="dark_green" >#0c4d00
+                </color>
+            </file>
+            <file
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="padding" >5dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+                <dimen name="padding2" >10dp
+                </dimen>
+            </file>
+            <file
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\values\strings.xml"
+                qualifiers="" >
+                <string name="three" >3
+                </string>
+
+                <string-array name="rules_description_array" >
+                    <item>
+@string/ace_description
+                    </item>
+                    <item>
+@string/two_description
+                    </item>
+                    <item>
+@string/three_description
+                    </item>
+                    <item>
+@string/four_description
+                    </item>
+                    <item>
+@string/five_description
+                    </item>
+                    <item>
+@string/six_description
+                    </item>
+                    <item>
+@string/seven_description
+                    </item>
+                    <item>
+@string/eight_description
+                    </item>
+                    <item>
+@string/nine_description
+                    </item>
+                    <item>
+@string/ten_description
+                    </item>
+                    <item>
+@string/jack_description
+                    </item>
+                    <item>
+@string/queen_description
+                    </item>
+                    <item>
+@string/king_description
+                    </item>
+                </string-array>
+
+                <string name="change_rule" >Tap any rule to change it.
+                </string>
+                <string name="king" >K
+                </string>
+                <string name="seven_title" >Heaven
+                </string>
+                <string name="last_king" >This is the last king!
+                </string>
+                <string name="deck_over" >Deck over! Press redeal for a new game.
+                </string>
+                <string name="ace_description" >Everyone starts drinking, and can only stop when the person who drew this card stops first.
+                </string>
+                <string name="clubs" >Clubs
+                </string>
+                <string name="nine" >9
+                </string>
+                <string name="ace" >A
+                </string>
+                <string name="queen" >Q
+                </string>
+                <string name="queen_description" >Say something you have never done. Everyone who has done it takes a drink. Eg, Never have I ever gone skinny dipping.
+                </string>
+                <string name="seven" >7
+                </string>
+                <string name="four_title" >Drinks for Whores
+                </string>
+                <string name="two" >2
+                </string>
+                <string name="ten_title" >Categories
+                </string>
+                <string name="title_activity_rules" >The Rules
+                </string>
+                <string name="spades" >Spades
+                </string>
+                <string name="three_title" >Drinks for Me
+                </string>
+                <string name="five_title" >Social
+                </string>
+                <string name="jack_description" >Take turns asking questions to each other quickly. First to pause or laughs drinks.
+                </string>
+                <string name="five" >5
+                </string>
+                <string name="eight_description" >Choose one of the players. You and your mate both take a drink.
+                </string>
+
+                <string-array name="rules_title_array" >
+                    <item>
+@string/ace_title
+                    </item>
+                    <item>
+@string/two_title
+                    </item>
+                    <item>
+@string/three_title
+                    </item>
+                    <item>
+@string/four_title
+                    </item>
+                    <item>
+@string/five_title
+                    </item>
+                    <item>
+@string/six_title
+                    </item>
+                    <item>
+@string/seven_title
+                    </item>
+                    <item>
+@string/eight_title
+                    </item>
+                    <item>
+@string/nine_title
+                    </item>
+                    <item>
+@string/ten_title
+                    </item>
+                    <item>
+@string/jack_title
+                    </item>
+                    <item>
+@string/queen_title
+                    </item>
+                    <item>
+@string/king_title
+                    </item>
+                </string-array>
+
+                <string name="king_title" >Kings Cup
+                </string>
+
+                <string-array name="card_suit_array" >
+                    <item>
+@string/spades
+                    </item>
+                    <item>
+@string/hearts
+                    </item>
+                    <item>
+@string/clubs
+                    </item>
+                    <item>
+@string/diamonds
+                    </item>
+                </string-array>
+
+                <string name="start_text" >Tap the card to start.
+                </string>
+                <string name="help_title" >How to play King\'s Cup
+                </string>
+                <string name="two_description" >Person who drew this card chooses any person to take a drink.
+                </string>
+                <string name="four_description" >All the girls playing takes a drink.
+                </string>
+                <string name="seven_description" >Everyone reaches for the sky. The last person to put their hands up has to drink. 
+                </string>
+                <string name="help_message" >Grab some friends and some drinks. Players draw a card one at a time and follow the rule until deck is over or players are sufficiently drink. Repeat as many times as necessary. Use the default rules or set your own wacky ones!
+                </string>
+                <string name="ace_title" >Waterfall
+                </string>
+                <string name="hearts" >Hearts
+                </string>
+                <string name="five_description" >Everyone drinks!
+                </string>
+                <string name="six_description" >All the boys playing takes a drink.
+                </string>
+                <string name="six" >6
+                </string>
+                <string name="nine_description" >Pick any word. Take turns saying words that rhyme with the original word without repeats. First person to pause or screw up drinks!
+                </string>
+                <string name="six_title" >Drinks for Dicks
+                </string>
+                <string name="eight" >8
+                </string>
+                <string name="diamonds" >Diamonds
+                </string>
+                <string name="redeal_button" >Redeal!
+                </string>
+                <string name="ten_description" >Choose a category. Take turns naming an item from the chosen category. First person to pause or screw up drinks!
+                </string>
+                <string name="king_description" >Pour a bit of your drink into a cup. Person who draws the last King has to chug the cup.
+                </string>
+                <string name="nine_title" >Rhyme Time
+                </string>
+                <string name="jack_title" >Question
+                </string>
+                <string name="ten" >10
+                </string>
+                <string name="jack" >J
+                </string>
+                <string name="num_of_kings_left" >Kings remain in the deck.
+                </string>
+                <string name="four" >4
+                </string>
+                <string name="fiftytwo_cards_left" >52 Cards left in the deck.
+                </string>
+                <string name="two_title" >Drinks for You
+                </string>
+                <string name="three_description" >Person who drew this card takes a drink.
+                </string>
+                <string name="redeal" >Press to redeal
+                </string>
+                <string name="no_cards_left" >No cards left in the deck.
+                </string>
+                <string name="app_name" >King\'s Cup
+                </string>
+                <string name="queen_title" >Never Have I Ever
+                </string>
+                <string name="cards_left" >Cards left in the deck.
+                </string>
+                <string name="eight_title" >Drink with a Mate
+                </string>
+
+                <string-array name="card_rank_array" >
+                    <item>
+@string/ace
+                    </item>
+                    <item>
+@string/two
+                    </item>
+                    <item>
+@string/three
+                    </item>
+                    <item>
+@string/four
+                    </item>
+                    <item>
+@string/five
+                    </item>
+                    <item>
+@string/six
+                    </item>
+                    <item>
+@string/seven
+                    </item>
+                    <item>
+@string/eight
+                    </item>
+                    <item>
+@string/nine
+                    </item>
+                    <item>
+@string/ten
+                    </item>
+                    <item>
+@string/jack
+                    </item>
+                    <item>
+@string/queen
+                    </item>
+                    <item>
+@string/king
+                    </item>
+                </string-array>
+            </file>
+            <file
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="CustomDialogTheme"
+                    parent="AppBaseTheme" >
+                </style>
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+                </style>
+            </file>
+            <file
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\values-sw600dp\dimens.xml"
+                qualifiers="sw600dp" />
+            <file
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\values-sw720dp-land\dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\values-v11\styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="D:\SkyDrive\AndroidApps\KingsGame\res\values-v14\styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="MyActionBar"
+                    parent="android:Widget.Holo.Light.ActionBar.Solid.Inverse" >
+                    <item name="android:titleTextStyle">
+@android:style/TextAppearance.Holo.Widget.ActionBar.Title
+                    </item>
+                </style>
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                    <item name="android:actionBarStyle">
+@style/MyActionBar
+                    </item>
+                </style>
+
+                <style
+                    name="DarkDialog"
+                    parent="android:Theme.Holo.Dialog" >
+                    <item name="android:textColor">
+#FFF
+                    </item>
+                </style>
+            </file>
+        </source>
+        <source path="D:\SkyDrive\AndroidApps\KingsGame\build\res\rs\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="D:\SkyDrive\AndroidApps\KingsGame\src\debug\res" />
+    </dataSet>
+
+</merger>

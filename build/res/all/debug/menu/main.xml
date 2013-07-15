@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/view_rules"
+          android:title="Rules"
+          android:orderInCategory="1"
+          android:showAsAction="always"/>
+
+    <item android:id="@+id/redeal"
+        android:title="Redeal"
+        android:orderInCategory="2"
+        android:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/toggleRules"
+        android:title="Show Rules"
+        android:orderInCategory="3"
+        android:checkable="true"
+        android:checked="true"
+        android:showAsAction="never"/>
+     
+    <item android:id="@+id/toggleRuleDescription"
+        android:title="Show Description"
+        android:orderInCategory="4"
+        android:checkable="true"
+        android:checked="true"
+        android:showAsAction="never"/>
+</menu>
+<!-- From: D:\SkyDrive\AndroidApps\KingsGame\res\menu\main.xml -->
